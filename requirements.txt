@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow
+scikit-learn
+shap
+requests
+pandas
+numpy
+matplotlib
+torch
+opencv-python-headless
