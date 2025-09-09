@@ -70,6 +70,7 @@ AgriConnect/
 
 2. **Crea entorno virtual (recomendado):**
    ```bash
+  #si no tiene anaconda debes descargarlo e instalarlo: https://www.anaconda.com/download
    # Con conda
    conda create -n agriconnect python=3.10
    conda activate agriconnect
